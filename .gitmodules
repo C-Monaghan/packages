@@ -1,0 +1,12 @@
+[submodule "R/lwc2022"]
+	path = R/lwc2022
+	url = https://github.com/C-Monaghan/lwc2022.git
+[submodule "R/cmBrand"]
+	path = R/cmBrand
+	url = https://github.com/C-Monaghan/cmBrand.git
+[submodule "quarto/shifu-academic-quarto"]
+	path = quarto/shifu-academic-quarto
+	url = https://github.com/C-Monaghan/shifu-academic-quarto.git
+[submodule "quarto/shifu-cover-letter-quarto"]
+	path = quarto/shifu-cover-letter-quarto
+	url = https://github.com/C-Monaghan/shifu-cover-letter-quarto.git
